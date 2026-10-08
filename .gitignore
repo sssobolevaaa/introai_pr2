@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# PyCharm
+.idea/
+
+# Virtual environments
+venv/
+.env/
+
+# Input and generated media
+*.mp4
+*.avi
+*.mov
+frames/
+det_results/
+seg_results/
+gifs/
+
+# Logs
+*.log
