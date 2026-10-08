@@ -14,8 +14,8 @@ conda --version
 python --version
 ```
 Версии:
-- conda: <вставь версию>
-- python: <вставь версию>
+- conda: <26.5.3>
+- python: <3.14.6>
 
 - ### Установка и проверка ffmpeg
 
