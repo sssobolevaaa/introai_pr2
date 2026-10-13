@@ -20,3 +20,9 @@ gifs/
 
 # Logs
 *.log
+# Downloaded model weights
+*.pt
+*.pth
+
+# Local submission archives
+*.zip
