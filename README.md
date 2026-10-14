@@ -77,7 +77,7 @@ D:\anaconda\envs\cv-practice\python.exe
 
 На выбранном примере обнаружены: <перечисли фактические классы>.
 
-![Пример детекции](screenshots/detection_example.jpg)
+![Пример детекции](screenshots/detection_example.png)
 
 Наблюдения:
 <Опиши конкретный результат: что найдено правильно, что пропущено
@@ -99,7 +99,7 @@ D:\anaconda\envs\cv-practice\python.exe
 
 На выбранном примере выделены: <перечисли фактические классы>.
 
-![Пример сегментации](screenshots/segmentation_example.jpg)
+![Пример сегментации](screenshots/segmentation_example.png)
 
 Наблюдения:
 <Опиши качество границ масок, пропуски и ошибочные области.>
